@@ -1,0 +1,25 @@
+body {
+	font-family: 'Times New Roman', Georgia, serif;
+	text-align: center;
+	margin-top: 120px;
+	background-color: #BFDDF3;
+}
+h2 {color: #084475;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+button {
+	padding: 20px 40px;
+	font-size: 20px;
+	font-weight: bold;
+	cursor: pointer;
+	color: #FFFFFF;
+	border: none;
+	border-radius: 8px;
+	transition: background-color 0.3s;
+	background-color: #000000;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
